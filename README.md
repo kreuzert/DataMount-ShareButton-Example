@@ -6,7 +6,7 @@ This repository demonstrates how to use the Data Mount features provided by [Jup
 [![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/share/FF1DOOkSmjw)
 
 
-( [https:/hub.nfdi-jupyter.de/share/FF1DOOkSmjw](https:/hub.nfdi-jupyter.de/share/FF1DOOkSmjw) )  
+( [https://hub.nfdi-jupyter.de/share/FF1DOOkSmjw](https://hub.nfdi-jupyter.de/share/FF1DOOkSmjw) )  
 Click the badge above to launch a JupyterLab environment on Jupyter4NFDI. You'll see example folders from an AWS S3 bucket and a B2DROP account already mounted.
 
 ![Example Notebook](images/example_notebook.png)  
